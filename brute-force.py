@@ -414,4 +414,6 @@ def menu():
             time.sleep(0.5)
             sys.exit(0)
 
-menu()
+menu()python brute-force.py
+
+
